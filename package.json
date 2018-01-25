@@ -1,0 +1,22 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smatthew3142/ConstructorHangman.git"
+  },
+  "author": "Sarika M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smatthew3142/ConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/smatthew3142/ConstructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
